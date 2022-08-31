@@ -2,7 +2,6 @@
 
 ## 👀 I’m interested in Data analysis
 ## 🌱 I’m currently learning data analysis
-## 💬 Ask me about var topics = [ "Python", "MySQL", "Data Analytics" ]
 ## 📄 Know about my work & experiences [My Resume]
 - 📫 How to reach me ...
 
