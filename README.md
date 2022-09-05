@@ -25,7 +25,7 @@
 
 ### [Data Science Tools](https://courses.cognitiveclass.ai/certificates/e28c94a497174e9f92588eab3da9bc26)   Powered by IBM Developer Skills Network
 
-### [BA01 - Business Analysis Essentials](https://drive.google.com/file/d/1aCbWAGo58fj3VU4kP8VdIM2r-91-KtQ-/view?usp=sharing)   Powered by NEW HORIZONS COMPUTER LEARNING CENTERS
+### [BA01 - Business Analysis Essentials](https://drive.google.com/file/d/1aCbWAGo58fj3VU4kP8VdIM2r-91-KtQ-/view?usp=sharing)   Powered by New Horizons Computer Learning Center
 #
 
 
