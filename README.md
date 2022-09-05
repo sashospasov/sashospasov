@@ -2,6 +2,8 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.0.1/icons/linkedin.svg' alt='linkedin' height='45'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sasho-spasov-484617132//)
 
+<a href=”https://www.linkedin.com/in/https://www.linkedin.com/in/sasho-spasov-484617132/"><img align=”left” src=”https://raw.githubusercontent.com/sashospasov/sashospasov/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+
 #
 ### 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1lEzrIktqvs_si2jxNGmwO_0Kop2yOhTg/view)
 #
