@@ -4,8 +4,8 @@
 ### 👀 I’m interested in Data Analytics
 ### 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1lEzrIktqvs_si2jxNGmwO_0Kop2yOhTg/view)
 
-## My Certifications 📜 🎓 ✔️
 
+## My Certifications 📜 🎓 ✔️
 
 
 ### [Pandas](https://www.kaggle.com/learn/certification/sspasov/pandas)  Powered by Kaggle
@@ -21,6 +21,10 @@
 ### [Big Data 101](https://courses.cognitiveclass.ai/certificates/f26d66fbdfa44873ac8975b30583267b)   Powered by IBM Developer Skills Network
 
 ### [Hadoop 101](https://courses.cognitiveclass.ai/certificates/d1857827b356457780ffe8887433fdbb)   Powered by IBM Developer Skills Network
+
+### [Data Science Methodology](https://courses.cognitiveclass.ai/certificates/0b8a0272299d4a2f9a4e05dba9829304)   Powered by IBM Developer Skills Network
+
+### [Data Science Tools](https://courses.cognitiveclass.ai/certificates/e28c94a497174e9f92588eab3da9bc26)   Powered by IBM Developer Skills Network
 
 
 <!---
