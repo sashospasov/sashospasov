@@ -6,11 +6,14 @@
 
 ## My Certifications 📜 🎓 ✔️
 
+
 [Pandas](https://www.kaggle.com/learn/certification/sspasov/pandas) by Kaggle
 
 [Data Visuaalization](https://www.kaggle.com/learn/certification/sspasov/data-visualization) by Kaggle
 
-[Data Cleaning](https://www.kaggle.com/learn/certification/sspasov/data-cleaning)
+[Data Cleaning](https://www.kaggle.com/learn/certification/sspasov/data-cleaning) by Kaggle
+
+[Spark Fundamentals I](https://courses.cognitiveclass.ai/certificates/0e84bcf109a249c3a5ffdf4cdebff7ed) by Powered by IBM Developer Skills Network
 
 
 <!---
