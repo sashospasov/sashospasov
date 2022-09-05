@@ -1,8 +1,13 @@
+<!-- welcome message -->
+ <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+  
+ <h3>Glad to see you here!</h3>
+ 
 ## 👋 Hi, I’m Sasho
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.0.1/icons/linkedin.svg' alt='linkedin' height='45'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sasho-spasov-484617132//)
 
-<a href=”https://www.linkedin.com/in/https://www.linkedin.com/in/sasho-spasov-484617132/"><img align=”left” src=”https://raw.githubusercontent.com/sashospasov/sashospasov/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+
 
 #
 ### 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1lEzrIktqvs_si2jxNGmwO_0Kop2yOhTg/view)
