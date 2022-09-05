@@ -7,13 +7,19 @@
 ## My Certifications 📜 🎓 ✔️
 
 
-[Pandas](https://www.kaggle.com/learn/certification/sspasov/pandas) by Kaggle
+[Pandas](https://www.kaggle.com/learn/certification/sspasov/pandas)  Powered by Kaggle
 
-[Data Visuaalization](https://www.kaggle.com/learn/certification/sspasov/data-visualization) by Kaggle
+[Data Visuaalization](https://www.kaggle.com/learn/certification/sspasov/data-visualization)  Powered by Kaggle
 
-[Data Cleaning](https://www.kaggle.com/learn/certification/sspasov/data-cleaning) by Kaggle
+[Data Cleaning](https://www.kaggle.com/learn/certification/sspasov/data-cleaning)  Powered by Kaggle
 
-[Spark Fundamentals I](https://courses.cognitiveclass.ai/certificates/0e84bcf109a249c3a5ffdf4cdebff7ed) by Powered by IBM Developer Skills Network
+[Spark Fundamentals I](https://courses.cognitiveclass.ai/certificates/0e84bcf109a249c3a5ffdf4cdebff7ed)  Powered by IBM Developer Skills Network
+
+[Introduction to Data Science](https://courses.cognitiveclass.ai/certificates/0fbc9e4898b945d39a0def34c8050c38)  Powered by IBM Developer Skills Network
+
+[Big Data 101](https://courses.cognitiveclass.ai/certificates/f26d66fbdfa44873ac8975b30583267b)   Powered by IBM Developer Skills Network
+
+[Hadoop 101](https://courses.cognitiveclass.ai/certificates/d1857827b356457780ffe8887433fdbb)   Powered by IBM Developer Skills Network
 
 
 <!---
