@@ -6,7 +6,7 @@
 ### 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1lEzrIktqvs_si2jxNGmwO_0Kop2yOhTg/view)
 #
 ## My Certifications 📜 🎓 ✔️
-#
+
 ### [Pandas](https://www.kaggle.com/learn/certification/sspasov/pandas)  Powered by Kaggle
 
 ### [Data Visuaalization](https://www.kaggle.com/learn/certification/sspasov/data-visualization)  Powered by Kaggle
