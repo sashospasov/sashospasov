@@ -1,5 +1,6 @@
 ## 👋 Hi, I’m Sasho
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sasho-spasov-484617132//)
 
 ### 👀 I’m interested in Data Analytics
 #
@@ -28,7 +29,7 @@
 ### [BA01 - Business Analysis Essentials](https://drive.google.com/file/d/1aCbWAGo58fj3VU4kP8VdIM2r-91-KtQ-/view?usp=sharing)   Powered by New Horizons Computer Learning Center
 #
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sashospasov)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 sashospasov/sashospasov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
