@@ -8,6 +8,10 @@
 
 [Pandas](https://www.kaggle.com/learn/certification/sspasov/pandas) by Kaggle
 
+[Data Visuaalization](https://www.kaggle.com/learn/certification/sspasov/data-visualization) by Kaggle
+
+[Data Cleaning](https://www.kaggle.com/learn/certification/sspasov/data-cleaning)
+
 
 <!---
 sashospasov/sashospasov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
