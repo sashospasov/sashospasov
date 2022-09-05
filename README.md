@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Sasho
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='45'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sasho-spasov-484617132//)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.0.1/icons/linkedin.svg' alt='linkedin' height='45'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sasho-spasov-484617132//)
 
 #
 ### 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1lEzrIktqvs_si2jxNGmwO_0Kop2yOhTg/view)
