@@ -2,12 +2,12 @@
  <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
   
  <h3>Glad to see you here!</h3>
-#
+
  <!-- Connect with me -->
  <h3 align="left">Connect with me:</h3>
  <p align="left">
 <a href="//www.linkedin.com/in/sasho-spasov-484617132" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/linkedin.svg" alt="kmhmubin" height="30" width="30" /></a>
-#
+
 ## I’m Sasho
 #
 ### 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1lEzrIktqvs_si2jxNGmwO_0Kop2yOhTg/view)
