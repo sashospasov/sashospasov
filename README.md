@@ -20,6 +20,8 @@
 
 ### [Data Cleaning](https://www.kaggle.com/learn/certification/sspasov/data-cleaning)  Powered by Kaggle
 
+### [Python for Data Science: Master NumPy & Pandas on Real Data](https://www.udemy.com/certificate/UC-247e6df6-8d9a-4974-bc0b-e89b81f68a3b/)  Powered by Udemy
+
 ### [Spark Fundamentals I](https://courses.cognitiveclass.ai/certificates/0e84bcf109a249c3a5ffdf4cdebff7ed)  Powered by IBM Developer Skills Network
 
 ### [Introduction to Data Science](https://courses.cognitiveclass.ai/certificates/0fbc9e4898b945d39a0def34c8050c38)  Powered by IBM Developer Skills Network
