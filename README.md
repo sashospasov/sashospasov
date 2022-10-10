@@ -10,7 +10,7 @@
 
 
 #
-### 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1umwjn1K_DQMxG9uY4H_wiU_2fB6JfvIi/view?usp=sharing)
+### 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1SB9dIkOa-9591iYOUl-_GNqgZz6NL3Ov/view?usp=sharing)
 #
 ## My Certifications 📜 🎓
 
