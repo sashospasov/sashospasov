@@ -42,7 +42,7 @@
 
 #
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sashospasov&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sashospasov)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/sashospasov) 
 <!---
