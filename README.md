@@ -1,6 +1,6 @@
 # Hi, I'm Sasho 👋
 
-### Senior Technical Business Analyst | Business Systems Analyst
+### Technical Business Analyst | Business Systems Analyst
 
 **Digital Banking · REST APIs · System Integrations · Solution Analysis · AI-Assisted Delivery**
 
